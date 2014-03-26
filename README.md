@@ -30,4 +30,4 @@ Define progress and complete handlers and set an images array to preload.
 		$("#results").append("image"+index+" loaded<br/>");
 	}
 
-Dependencies: signals(https://github.com/millermedeiros/js-signals)
+Dependencies: [signals](https://github.com/millermedeiros/js-signals)
