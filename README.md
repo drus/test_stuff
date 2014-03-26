@@ -1,12 +1,6 @@
 test_stuff
 ==========
-Just testing.
-
-
-ImageStackLoader
-An image stack loader :) Useful to preload css images for example.
-
-
+ImageStackLoader: an image stack loader :) Useful to preload css images for example.
 Define progress and complete handlers and set an images array to preload.
 
 $(function(){
