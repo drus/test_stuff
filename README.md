@@ -29,3 +29,5 @@ Define progress and complete handlers and set an images array to preload.
 	function progressedHandler(e, index){
 		$("#results").append("image"+index+" loaded<br/>");
 	}
+
+Dependencies: signals(https://github.com/millermedeiros/js-signals)
